@@ -1,0 +1,8 @@
+DELETE FROM Customers;
+DELETE FROM CreditCards;
+DELETE FROM Orders;
+DELETE FROM Product;
+DELETE FROM ProductsInOrder;
+DELETE FROM Review;
+DELETE FROM Seller;
+DELETE FROM Shipping;
